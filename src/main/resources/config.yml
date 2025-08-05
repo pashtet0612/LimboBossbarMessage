@@ -1,0 +1,14 @@
+bossbar:
+  messages:
+    - "&aDefault message 1"
+    - "&5Default message 2"
+    - "&bDefault message 3"
+    - "&9Default message 4"
+    - "&fDefault message 5"
+
+  colors:
+    - GREEN
+    - DARK_PURPLE
+    - AQUA
+    - BLUE
+    - WHITE

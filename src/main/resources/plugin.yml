@@ -1,0 +1,9 @@
+name: LimboBossbarMessage
+version: '1.0'
+main: fun.pashtet_fallout.limboBosbarMessage.LimboBosbarMessage
+
+commands:
+  limbobossbar:
+    description: Reload config
+    usage: /limbobossbar reload
+    permission: limbobossbar.reload
